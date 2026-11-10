@@ -5,6 +5,9 @@ TODOs:
 Find an additional spin to project (prof gave example with anomaly detection)
 Find 2 "good" datasets that can be used for model development (doesn't have to be about power)
 
+https://www.kaggle.com/datasets/erogluegemen/airline-passengers?select=airline-passengers.csv
+
+
 Read on evaluation metrics (mean absolute error, root mean square error, mean absolute percentage error, etc...)
 Read previous year's lecture notes since they implemented many of the models (except Prophet). So probably focus more on Prophet
 
